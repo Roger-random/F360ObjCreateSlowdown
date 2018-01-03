@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Roger Cheng",
+	"description":	{
+		"":	"Minimum code to reproduce strange slowdown issue"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
